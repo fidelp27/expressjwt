@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Harry",
+        "email": "harry@123.com",
+        "password": "harry1234"
+    },
+    {
+        "name": "Ron",
+        "email": "ron@123.com",
+        "password": "ron1234"
+    },
+    {
+        "name": "Hermione",
+        "email": "hermione@123.com",
+        "password": "hermione1234"
+    },
+    {
+        "name": "Draco",
+        "email": "draco@123.com",
+        "password": "draco1234"
+    }
+]
